@@ -1,4 +1,4 @@
-package CLASSWORK;
+
 
 class Employee {
     String empId;
